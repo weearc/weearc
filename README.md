@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Michael Ki, majored in Material Forming and Controlling of Chong Qing University.
+I'm Michael Ki, majored in Material Processing and Controlling Engineering of Chong Qing University.
 I feel fun with Arch Linux and have always been a GNU/Linux fan.
 <!--
 **weearc/weearc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
