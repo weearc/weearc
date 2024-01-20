@@ -1,6 +1,10 @@
 ### Hi there 👋
-I'm Michael Ki, majored in Material Processing and Controlling Engineering of Chongqing University.
-I feel fun with Arch Linux and have always been a GNU/Linux fan.
+I'm Michael Ki, majored in Material Processing and Controlling Engineering from Chongqing University.
+I feel fun with GNU/Linux and have always been a GNU/Linux fan.
+
+- Operation System: <img alt='opensuse' src='https://github.com/weearc/weearc/assets/19357165/968aebfa-7594-49b9-b0f4-1629c731cf3c' width="30"> openSUSE Tumbleweed
+- 🌱 Learning ... I don't know. Perhaps JVM ?
+- 👯 Collaborating on @cqumirror projects
 <!--
 **weearc/weearc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +20,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![weearc's github stats](https://github-readme-stats.vercel.app/api?username=weearc&show_icons=true&count_private=true&include_all_commits=true&hide=contribs,prs)](https://github.com/weearc/github-readme-stats)
+
